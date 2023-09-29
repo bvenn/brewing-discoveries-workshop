@@ -20,8 +20,15 @@ The pseudonymized data is stored in tab-delimited format as `/data/coffeedata.tx
 <img src="https://github.com/bvenn/brewing-discoveries-workshop/blob/main/img/05_dataTable.png" alt="coffee data" width="60%">
 
 
+## Documentation
 
-FSharp.Stats documentation
-Cytoscape.NET documentation
-Plotly.NET documentation
+[FSharp.Stats documentation](https://fslab.org/FSharp.Stats/)
+
+[Cytoscape.NET documentation](https://fslab.org/Cytoscape.NET/)
+
+[Plotly.NET documentation](https://plotly.net/)
+
+[fslab blog](https://fslab.org/blog/)
+
+[csblog](https://csbiology.github.io/CSBlog/)
 
