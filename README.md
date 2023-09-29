@@ -8,7 +8,7 @@ To install:
 [![Discord](https://img.shields.io/discord/836161044501889064?color=purple&label=Join%20our%20Discord%21&logo=discord&logoColor=white)](https://discord.gg/k3kUtFY8DB)
 
 
-In 2018 our working group at RPTU Kaiserslautern our working group implemented a coffee logging service at two location on our campus. [CSBar](https://github.com/CSBiology/CSBar) enables the logging of Coffee, Beer, Beverages, and other products in our break rooms. The core is entirely written in FSharp, while the logging itself is facilitated by a RaspberryPi with touch display and a simple barcode scanner.
+In 2018 our working group at RPTU Kaiserslautern our working group implemented a coffee logging service at two location on our campus. CSBar enables the logging of Coffee, Beer, Beverages, and other products in our break rooms. The core is entirely written in FSharp, while the logging itself is facilitated by a RaspberryPi with touch display and a simple barcode scanner.
 
 <img src="https://github.com/bvenn/brewing-discoveries-workshop/blob/main/img/01_LoggingRaspberry.png" alt="Logging device" width="60%">
 
